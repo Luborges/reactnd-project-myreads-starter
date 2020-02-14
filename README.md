@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is a project develope as part of the Udacity: React Nanodegree program. 
+This is a project develop as part of the Udacity: React Nanodegree program. 
 
 Get started:
 
